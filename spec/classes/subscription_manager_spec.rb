@@ -35,7 +35,6 @@ end
 
 bados = {
   'Solaris'  => 'Nexenta',
-  'Debian'   => 'Ubuntu',
   'openSuSE' => 'openSUSE',
   'SLES'     => 'SLES',
 }
